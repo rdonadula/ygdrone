@@ -1,2 +1,2 @@
 # ygdrone
-drone controller
+The app for mobile devices is an innovative mobile application designed exclusively for drone piloting and should be built in such a way that it is expressly suited for use with drones. When a fire impacts a specific area, it should be able to handle simple functions such as live video capture, real-time data collecting, and water sprinkling. It opens up a world of thrilling drone flight and great photo capturing thanks to safety features, media control, and connection with iOS and Android smartphones.
